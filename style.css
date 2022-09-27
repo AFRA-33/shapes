@@ -1,0 +1,53 @@
+.square{
+margin: 15px;
+background-color: rgb(199, 163, 110);
+border-radius: 5px;
+padding: 5px;
+}
+.rectangle{
+    margin: 15px;
+    background-color: rgb(199, 163, 110);
+border-radius: 5px;
+padding: 5px;
+}
+.triangle{
+    margin: 15px;
+    background-color: rgb(199, 163, 110);
+border-radius: 5px;
+padding: 5px;
+}
+.circle{
+    margin: 15px;
+    background-color: rgb(199, 163, 110);
+border-radius: 5px;
+padding: 5px;
+}
+.shap{
+   
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 25px;
+}
+.recg{
+    
+    width: 150px;
+    height: 90px;
+    background-color: aquamarine;
+    margin: 25px;
+}
+.tri{
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 90px solid  aquamarine;
+    margin: 25px;
+}
+.circl{
+    height: 90px;
+    width: 90px;
+    background-color:aquamarine;
+    border-radius: 50%;
+    margin: 25px;
+  }
